@@ -1,0 +1,11 @@
+.container {
+    color:rgb(170, 51, 7);
+    background-color: rgb(29, 200, 206);
+    font-size: x-large;
+}
+
+.header {
+    color:rgb(173, 160, 41);
+    background-color: cyan;
+    font-size: 2.5rem;
+}

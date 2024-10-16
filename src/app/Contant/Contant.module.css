@@ -1,0 +1,11 @@
+.container{
+    color: rgb(119, 70, 9);
+    background-color: rgb(231, 101, 210);
+    font-size:larger;
+}
+
+.header{
+    color:blue;
+    background-color: rgb(206, 160, 9);
+    font-size: 2rem;
+}
